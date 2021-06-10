@@ -1,0 +1,44 @@
+{
+    "nome": "Santa Maria Regina Pacis",
+    "categoria": "architettura",
+    "usatoPer": "Ostia",
+    "posizione": {
+        "indirizzo": "Piazza Regina Pacis, 13",
+        "cap": "00122",
+        "localita": "Lido di Ostia",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": "06 5623244",
+        "mail": null,
+        "orari": "Luned\u00EC-Sabato 08-12, 15:30-19:30\r\nDomenica 07-12:30, 16-19:30",
+        "sito_web": "https://www.reginapacisostia.it/"
+    },
+    "info": "La chiesa di Santa Maria Regina Pacis sorge in posizione sopraelevata, sull'unica collinetta del Lido di Ostia, in piazza Regina Pacis. La chiesa fu costruita su progetto dell'architetto Giulio Magni per volont\u00E0 del vescovo Vincenzo Vannutelli. Bench\u00E9 il progetto risalga al 1916, solo il 21 giugno 1919 fu posta la prima pietra del nuovo edificio.",
+    "foto": [
+        "https://www.reginapacisostia.it/wp-content/uploads/2018/12/cover-dvd-papa-retro.jpg",
+        "https://www.reginapacisostia.it/wp-content/uploads/2018/12/DJI_0006.jpg",
+        "https://www.reginapacisostia.it/wp-content/uploads/2019/01/502_6100.jpg"
+    ],
+    "domande": [
+        {
+            "descrizione": "La chiesa di Santa Maria Regina Pacis fu progettata da Giulio Magni per volont\u00E0 del cardinale Vannutelli. La prima pietra fu posata nel 1919 ma i lavori furono terminati circa dieci anni dopo a causa di problemi economici.",
+            "domanda": "La volont\u00E0 di Vannutelli era quella di \"costruire un tempio votivo alla Regina della Pace affinch\u00E9 non si protraessero pi\u00F9 a lungo i giorni...\" terribili che il nostro paese stava affrontando.\r\nA cosa si riferiva il Vescovo di Ostia?",
+            "risposte": [
+                "Prima Guerra Mondiale",
+                "Seconda Guerra Mondiale",
+                "Influenza Spagnola",
+                "Ventennio Fascista"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "La chiesa fu costruita su un terreno di 2500 mq, sulla duna pi\u00F9 alta di Ostia, in posizione dominante e con la facciata rivolta verso il mare ad indicare che \"la benedizione della Regina della Pace voleva abbracciare tutto il mondo.\"",
+            "spiegazione": "La parrocchia fu progettata nel 1916, il terreno per la costruzione fu donato dal Governatorato di Roma alla Chiesa nel 1917, ma i lavori iniziarono solamente dopo la fine della Prima Guerra Mondiale.",
+            "foto": {
+                "descrizione": "https://www.visitostia.tv/demo/wp-content/uploads/2019/01/chiesa-regina-pacis.jpg",
+                "domanda": null,
+                "curiosita": "https://www.reginapacisostia.it/wp-content/uploads/2018/12/Madonnina-Regina-Pacis-Ostia.jpg",
+                "spiegazione": "https://i.ebayimg.com/images/g/L5oAAOxyBPZTina5/s-l300.jpg"
+            }
+        }
+    ]
+}

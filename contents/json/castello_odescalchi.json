@@ -1,0 +1,44 @@
+{
+    "nome": "Castello Odescalchi",
+    "categoria": "architettura",
+    "usatoPer": "Architettura",
+    "posizione": {
+        "indirizzo": "Piazza Giuseppe Mazzini, 14",
+        "cap": "00062",
+        "localita": "Santa Marinella",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": "06 99802379",
+        "mail": "castello@odescalchi.it",
+        "orari": "Luned\u00EC-Venerd\u00EC 10-17\r\nSabato-Domenica 10-18",
+        "sito_web": "https://www.odescalchi.it/home"
+    },
+    "info": "Il castello fu costruito da Braccio da Montone, poi passato all'Orsini dietro richiesta di papa Martino V e aperto al pubblico nel 1952 da Livio IV Odescalchi. Oggi \u00E8 visitabile e viene spesso usato per ricevimenti, celebrare matrimoni e per altri eventi privati e culturali.",
+    "foto": [
+        "https://www.alessandramezzasalma.it/wp-content/uploads/2016/09/Castello-Odescalchi.jpg",
+        "https://i2.res.24o.it/images2010/Editrice/ILSOLE24ORE/ILSOLE24ORE/2018/04/12/Politica%20e%20societa/ImmaginiWeb/Ritagli/Castello_di_Bracciano_Marka-keC--835x437@IlSole24Ore-Web.jpg",
+        "https://www.odescalchi.it/public/componenti/2475/f1/1.png1457110728715"
+    ],
+    "domande": [
+        {
+            "descrizione": "A pochi chilometri da Roma, il castello rappresenta una tra le pi\u00F9 belle e imponenti dimore rinascimentali d'Europa. Il museo \u00E8 aperto al pubblico tutti i giorni dell'anno con orario continuato e la struttura ospita svariati tipi di eventi.",
+            "domanda": "Quali dei seguenti eventi NON sono mai stati tenuti presso il Castello?",
+            "risposte": [
+                "Giostra delle Contrade",
+                "Matrimoni ed eventi privati",
+                "Meeting e congressi",
+                "Film e concerti"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "Il castello \u00E8 una delle location pi\u00F9 ambite per sposarsi, ma sembra non portare molta fortuna ai matrimoni delle star. Tra i vip hollywoodiani che hanno celebrato qui le proprie nozze troviamo, infatti, Brad Pitt-Angelina Jolie e Tom Cruise-Katie Holmes.",
+            "spiegazione": "La \"Giostra delle Contrade\" \u00E8 una rievocazione storica in costume d'epoca medievale che si svolge nel mese di giugno nel centro storico di Tarquinia.",
+            "foto": {
+                "descrizione": "https://www.levoilabanqueting.com/images/phocagallery/locations/castello_bracciano/thumbs/phoca_thumb_l_levoilabanqueting_castello_bracciano_06.jpg",
+                "domanda": null,
+                "curiosita": "https://www.millerharris.com.au/wp-content/uploads/2016/09/brad-pitt-angelina-jolie-split.jpg",
+                "spiegazione": "https://www.newtuscia.it/wp-content/uploads/2017/05/giostra-delle-contrade-650x445.jpg"
+            }
+        }
+    ]
+}

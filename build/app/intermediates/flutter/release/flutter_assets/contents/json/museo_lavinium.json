@@ -1,0 +1,44 @@
+{
+    "nome": "Museo Archeologico Lavinium",
+    "categoria": "archeologia",
+    "usatoPer": "Pomezia",
+    "posizione": {
+        "indirizzo": "Pratica di Mare, 4",
+        "cap": "00071",
+        "localita": "Pomezia",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": "06 91984744",
+        "mail": "museo.lavinium@yahoo.it",
+        "orari": "Luned\u00EC 09-14 (solo su prenotazione)\r\nMarted\u00EC-Venerd\u00EC 09-14\r\nSabato-Domenica 10-13, 15-18:30",
+        "sito_web": "http://www.comune.pomezia.rm.it/museo"
+    },
+    "info": "Il Museo civico archeologico Lavinium di Pomezia \u00E8 situato in localit\u00E0 Pratica di Mare, nei pressi del borgo medievale dall'omonimo nome. Creato nel 2005 come mostra permanente dal titolo \"Hic Domus Aeneae\", il museo raccoglie una parte dei numerosi reperti provenienti dagli scavi dell'antica citt\u00E0 di Lavinium.",
+    "foto": [
+        "https://www.ilcorrieredellacitta.com/wp-content/uploads/2011/08/museo-lavinium.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/07/62/a7/c6/museo-archeologico-lavinium.jpg",
+        "https://i2.wp.com/www.archeostorie.it/wp-content/uploads/2017/01/AnticaLaviniumSantuariodelleTrediciarefotoTeodoroTeodoracopulos.jpg?fit=990%2C611&ssl=1"
+    ],
+    "domande": [
+        {
+            "descrizione": "Il museo archeologico, nato nel 2005, si trova in un edificio situato in localit\u00E0 Pratica di Mare ed \u00E8 diviso in 5 sale tematiche: Tritonia Virgo, Mundus Muliebris, Hic Domus Aeneae, Civitas Religiosa, Aeneas Indiges. La prima mostra offerta al pubblico fu un tributo alla figura leggendaria di Enea, fondatore di Lavinium.",
+            "domanda": "In quale sala \u00E8 esposto il ricco corredo del monumento funebre del famoso eroe troiano?",
+            "risposte": [
+                "Aeneas Indige",
+                "Tritonia Virgo",
+                "Mundus Muliebris",
+                "Civitas Religiosa"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "Il Museo \u00E8 un allestimento estremamente innovativo in cui convivono multimedialit\u00E0 ed esposizione tradizionale. Ad Enea \u00E8 dedicata l'ultima \"pagina\" del Museo in cui, attraverso un video suggestivo e coinvolgente, l'eroe con i suoi interrogativi e dubbi si rivolge con speranza al padre Anchise.",
+            "spiegazione": "Nella sala Aeneas Indige, dedicata ad Enea, sono raccolti molti degli oggetti del corredo funebre, come la spada, le lance e il coltello sacrificale, ritrovati nell'Heroon di Enea, monumento sepolcrale nel quale gli antichi credevano fosse deposto il mitico personaggio.",
+            "foto": {
+                "descrizione": "https://media-cdn.tripadvisor.com/media/photo-s/07/62/a8/da/museo-archeologico-lavinium.jpg",
+                "domanda": null,
+                "curiosita": "https://1.bp.blogspot.com/-5gFg0FZczD8/XHWVOn3wYdI/AAAAAAAAr68/yQa6kUp2bHgs0mHZKMfU9mIAmrra-IhmACLcBGAs/s1600/lavinium1.jpg",
+                "spiegazione": "https://www.aeneasroute.org/wp-content/uploads/2020/07/Lavinium_Cult_11.jpg"
+            }
+        }
+    ]
+}

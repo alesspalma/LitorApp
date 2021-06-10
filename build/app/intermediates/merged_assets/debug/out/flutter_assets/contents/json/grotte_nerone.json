@@ -1,0 +1,44 @@
+{
+    "nome": "Grotte di Nerone",
+    "categoria": "natura",
+    "usatoPer": "Natura",
+    "posizione": {
+        "indirizzo": "Riviera Vittorio Mallozzi, 40",
+        "cap": "00042",
+        "localita": "Anzio",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": null,
+        "mail": null,
+        "orari": null,
+        "sito_web": null
+    },
+    "info": "Le Grotte di Nerone sono una delle spiagge pi\u00F9 caratteristiche della cittadina di Anzio, nella provincia di Roma. La particolarit\u00E0 di questa spiaggia sta nel fatto che il tratto libero \u00E8 quello dove vi sono le rovine in laterizi di epoca imperiale, peculiarit\u00E0 che rende le Grotte di Nerone una delle spiagge pi\u00F9 suggestive del nostro Paese.",
+    "foto": [
+        "https://www.facciounagita.it/wp-content/uploads/2018/12/anzio-e-le-grotte-di-nerone-2.jpg",
+        "https://www.ilcaffe.tv/img_articoli/big/2015/02/757.jpg",
+        "https://www.ilfaroonline.it/photogallery_new/images/2019/08/anzio-112026.660x368.jpg"
+    ],
+    "domande": [
+        {
+            "descrizione": "La spiaggia delle Grotte di Nerone \u00E8 situata all'interno della nota area archeologica che accoglie la Villa imperiale di Nerone, a picco sul mare, e in epoca romana rappresentava un grande supporto per il commercio marittimo nel porto di Anzio.",
+            "domanda": "I resti noti come le Grotte di Nerone erano utilizzati come:",
+            "risposte": [
+                "magazzini portuali",
+                "stabilimento balneare",
+                "rimesse dell'imperatore",
+                "alloggi degli equipaggi"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "Il nome \u201CGrotte\u201D \u00E8 stato dato al luogo poich\u00E9 i resti dei magazzini dell'imponente Villa Imperiale nel corso dei secoli sono stati scavati dall'erosione dell'acqua e del vento, assumendo la particolare forma di antri.",
+            "spiegazione": "Le Grotte di Nerone sono state utilizzate, in epoca romana, come magazzini portuali per supportare l'attivit\u00E0 di commercio marittimo di Anzio.",
+            "foto": {
+                "descrizione": "https://fai-platform.imgix.net/media/lazio/rm/23708_grotte-di-nerone.jpg",
+                "domanda": null,
+                "curiosita": "https://www.anzioturismo.it/wp-content/uploads/2020/07/grotte-nerone-74406.660x368.jpg",
+                "spiegazione": "https://i0.wp.com/www.altomareblu.com/wp-content/uploads/Anzioilportoelanautica_9A4A/AMportoAnziodisegno1750.jpg?ssl=1"
+            }
+        }
+    ]
+}

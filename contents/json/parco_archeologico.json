@@ -1,0 +1,44 @@
+{
+    "nome": "Parco Archeologico",
+    "categoria": "archeologia",
+    "usatoPer": "Ostia",
+    "posizione": {
+        "indirizzo": "Viale dei Romagnoli, 717",
+        "cap": "00119",
+        "localita": "Ostia Antica",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": "06 56358099",
+        "mail": "pa-oant@beniculturali.it",
+        "orari": "Marted\u00EC-Domenica 08:30-18",
+        "sito_web": "https://www.ostiaantica.beniculturali.it/"
+    },
+    "info": "Rappresenta uno dei siti archeologici pi\u00F9 visitati e meglio conservati del mondo romano. Il parco si estende su circa 50 ettari e presenta i resti di quella che fu la prima colonia dell'Urbe, dando la possibilit\u00E0 al visitatore di osservare le trasformazioni occorse alla fisionomia della citt\u00E0 durante circa otto secoli.",
+    "foto": [
+        "https://pbs.twimg.com/media/Egfon6OUYAAy0ng.jpg",
+        "https://www.turismoitalianews.it/images/stories/archeologia/OstiaAntica_ParcoArcheologico_02.jpg",
+        "https://www.ia-ostiaantica.org/news/wp-content/uploads/2015/07/FB-Theater.jpg"
+    ],
+    "domande": [
+        {
+            "descrizione": "Il Teatro Romano \u00E8 in assoluto l'edificio pi\u00F9 rappresentativo del Parco Archeologico di Ostia Antica. Costruito nel 12 a.C. sotto l'imperatore Augusto, fu poi ampliato e ristrutturato su iniziativa di Commodo e infine inaugurato sotto Settimio Severo.",
+            "domanda": "Da quale architetto fu costruito il Teatro Romano di Ostia Antica?",
+            "risposte": [
+                "Agrippa",
+                "Augusto",
+                "Settimio Severo",
+                "Commodo"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "All'interno del teatro si trovavano delle tabernae (botteghe), decorate con semplici affreschi, nelle quali gli spettatori si ristoravano durante le pause delle rappresentazioni.",
+            "spiegazione": "Il teatro fu edificato da Marco Vipsanio Agrippa, politico, militare e architetto romano nonch\u00E9 amico e genero dell'imperatore Augusto.",
+            "foto": {
+                "descrizione": "https://www.operainroma.com/wp-content/uploads/2019/05/Teatro-Romano-Ostia-Antica-16-9-600x338.jpg",
+                "domanda": null,
+                "curiosita": "https://1.bp.blogspot.com/-Nba2YzDfKyM/TuMpl83N94I/AAAAAAAAIYw/KATdnrCVIro/s1600/bottega5.jpg",
+                "spiegazione": "https://digilander.libero.it/certamenromanum/img/21.jpg"
+            }
+        }
+    ]
+}

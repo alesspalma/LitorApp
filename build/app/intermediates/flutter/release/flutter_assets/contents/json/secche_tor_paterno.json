@@ -1,0 +1,44 @@
+{
+    "nome": "Secche di Tor Paterno",
+    "categoria": "natura",
+    "usatoPer": "Natura",
+    "posizione": {
+        "indirizzo": "Via del Canale di Castel Fusano, 11",
+        "cap": "00122",
+        "localita": "Lido di Ostia",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": "06 3540531",
+        "mail": "urpromanatura@regione.lazio.it",
+        "orari": null,
+        "sito_web": "https://www.ampsecchetorpaterno.it/"
+    },
+    "info": "L'area naturale marina protetta Secche di Tor Paterno \u00E8 stata istituita nel dicembre 2000 dal Ministero dell'ambiente e affidata in gestione all'Ente regionale Roma Natura. I fondali sono compresi tra \u221218 e \u221275 m di profondit\u00E0 e comprendono un rilievo roccioso che si innalza dal circostante fondale sabbioso, costituendo cos\u00EC una vera e propria \"oasi\" in grado di attirare moltissime specie ittiche.",
+    "foto": [
+        "https://turismoroma.it/sites/default/files/Secche%20di%20Tor%20Paterno%20grande.jpg",
+        "https://abitarearoma.it/wp/wp-content/uploads/2015/07/SeccheTorPaterno.jpg",
+        "https://ostiaedintorni.it/wp-content/uploads/2019/10/Copertina-702x336.jpg"
+    ],
+    "domande": [
+        {
+            "descrizione": "In profondit\u00E0 presso le Secche si trovano interessanti colonie di celenterati, parenti stretti del corallo, come la bellissima Gorgonia Rossa, il \"Falso Corallo Nero\", di colore giallo, e gli Alcionari, difficili da trovare altrove.",
+            "domanda": "Questo corallo \u00E8 noto come \u201CFalso Corallo Nero\u201D, qual \u00E8 il suo nome scientifico?",
+            "risposte": [
+                "Gerardia Savaglia",
+                "Anemone di Mare",
+                "Alcionario Mediterraneo",
+                "Gorgonia Rossa"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "Le colonie di Gerardia Savaglia si insediano spesso su scheletri preesistenti di gorgonacei, di fatto \"copiando\" la forma della Gorgonia aggredita. Possono svilupparsi con ramificazioni che superano abbondantemente il metro di lunghezza.",
+            "spiegazione": "La Gerardia Savaglia o \"Falso Corallo Nero\" \u00E8 cos\u00EC chiamato perch\u00E9 produce uno scheletro corneo di colore scuro, generalmente nerastro, ma in realt\u00E0 i polipi di questo esacorallo sono molto grandi e di un vistoso giallo vivo.",
+            "foto": {
+                "descrizione": "https://www.hellogreen.it/wp/wp-content/uploads/2020/07/Fondali-Roma-1280x720.png",
+                "domanda": "https://www.biologiamarina.org/wp/wp-content/uploads/2012/08/gerardia-savaglia-91.jpg",
+                "curiosita": "https://www.colapisci.it/tuffatore/foto/gerardia/05.JPG",
+                "spiegazione": "https://i0.wp.com/www.intotheblue.it/wp-content/uploads/2019/01/vlcsnap-2019-01-10-11h20m01s709.jpg?resize=1280%2C720&ssl=1"
+            }
+        }
+    ]
+}

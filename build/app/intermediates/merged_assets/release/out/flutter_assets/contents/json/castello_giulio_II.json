@@ -1,0 +1,44 @@
+{
+    "nome": "Castello di Giulio II",
+    "categoria": "architettura",
+    "usatoPer": "Ostia",
+    "posizione": {
+        "indirizzo": "Piazza della Rocca, 13",
+        "cap": "00119",
+        "localita": "Ostia Antica",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": "06 56358013",
+        "mail": null,
+        "orari": "Sabato-Domenica 09-17",
+        "sito_web": "https://www.ostiaantica.beniculturali.it/it/aree-archeologiche-e-monumentali/ostia-antica/borgo-di-ostia-antica-e-castello-di-giulio-ii/"
+    },
+    "info": "\u00C8 un forte medievale situato all'estremit\u00E0 sud-occidentale del borgo di Ostia Antica. Nel 1483 inizi\u00F2 la sia costruzione, voluta dal cardinale Giuliano della Rovere e affidata all'architetto fiorentino Baccio Pontelli. Il sito \u00E8 di propriet\u00E0 del Ministero per i beni e le attivit\u00E0 culturali e per il turismo ed \u00E8 gestito dall'ente Parco Archeologico di Ostia Antica.",
+    "foto": [
+        "https://imgs-akamai.mnstatic.com/83/5e/835e56a6b9ddd80029c9ca326f73dd7a.jpg",
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ostia-antica-le-curiosita-che-forse-non-sai-1596201923.jpg?resize=980:*",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmDmOSeOjXctWmlvoO0VeHlpHCk8wZfNZ9A&usqp=CAU"
+    ],
+    "domande": [
+        {
+            "descrizione": "Il castello rinascimentale fu commissionato dal cardinale Giuliano della Rovere tra il 1483 ed il 1486 e i lavori di costruzione, in funzione strategico militare, furono affidati all\u2019architetto fiorentino Baccio Pontelli.",
+            "domanda": "Il castello ha le mura completamente in mattoni, basse ma spesse e inclinate a forma di scarpa (come mostrato in foto). Per quale motivo?",
+            "risposte": [
+                "rafforzare la struttura delle mura",
+                "estetica della struttura",
+                "separare le mura dal fossato",
+                "è una struttura tipica barocca"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "Il castello perse la sua funzione strategica a causa della disastrosa inondazione del Tevere nel 1557, che provoc\u00F2 lo spostamento del corso del fiume e determin\u00F2 anche la decadenza del castello, lontano dalle nuove sponde e pertanto privo di ogni utilit\u00E0 pratica.",
+            "spiegazione": "La scarpa \u00E8 un'opera difensiva che consiste nell'accostamento di un muro inclinato alla base di una cinta muraria o di una torre, al fine di rafforzare il muro stesso e di tenere il pi\u00F9 distante possibile dal perimetro il nemico e le sue macchine d'assedio.",
+            "foto": {
+                "descrizione": "https://turismoroma.it/sites/default/files/borgo_1.jpg",
+                "domanda": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Castello_di_giulio_II.JPG/1280px-Castello_di_giulio_II.JPG",
+                "curiosita": "https://tabletroma.it/wp-content/uploads/Tevere-l%E2%80%99attracco-fluviale-presso-il-castello-di-Ostia.jpg",
+                "spiegazione": "http://www.icastelli.org/forme/elementi_strutturali/d_esterne/scarpa/Resize%20of%20scarpa_did.jpg"
+            }
+        }
+    ]
+}

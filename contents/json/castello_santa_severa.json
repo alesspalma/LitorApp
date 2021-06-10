@@ -1,0 +1,44 @@
+{
+    "nome": "Castello di Santa Severa",
+    "categoria": "architettura",
+    "usatoPer": "Architettura",
+    "posizione": {
+        "indirizzo": "Via Aurelia, Km 52.600",
+        "cap": "00058",
+        "localita": "Santa Marinella",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": "06 39967999",
+        "mail": "info@castellodisantasevera.it",
+        "orari": "Marted\u00EC-Venerd\u00EC 09-17\r\nSabato-Domenica 10-18",
+        "sito_web": "http://www.castellodisantasevera.it/"
+    },
+    "info": "Il castello di Santa Severa \u00E8 un castello del XIV secolo, che poggia sui resti dell\u2019antica\u00A0Pyrgi, porto etrusco che serviva la citt\u00E0 di Caere (attuale Cerveteri). Sono ancora visibili nella piazza della Rocca i resti di una chiesa paleocristiana dedicata a Severa di Pyrgi che qui ricevette il martirio, assieme ai fratelli, il 5 giugno 298.",
+    "foto": [
+        "https://www.iborghimarinaridiroma.it/ANM22WebBase/upload/it_santa-marinella_6.png",
+        "https://www.lafune.eu/wp-content/uploads/2020/07/castello-santa-severa-di-notte-750x442-1.jpg",
+        "https://www.ilfaroonline.it/photogallery_new/images/2019/11/chiesa-castello-santa-severa-116548.660x368.jpg"
+    ],
+    "domande": [
+        {
+            "descrizione": "Nel corso dei secoli la propriet\u00E0 del castello pass\u00F2 attraverso vari proprietari finch\u00E9 nel 1482 pass\u00F2 sotto la propriet\u00E0 dell'Ordine del Santo Spirito e vi rimase per circa 500 anni. Oggi la propriet\u00E0 del complesso monumentale appartiene alla Regione Lazio che ne ha affidato la gestione al Comune di Santa Marinella.",
+            "domanda": "In che anno la Regione Lazio divenne proprietaria del castello?",
+            "risposte": [
+                "1980",
+                "1800",
+                "1680",
+                "1700"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "Il castello, che dal 2017 \u00E8 aperto tutto l'anno, \u00E8 riuscito a guadagnarsi una posizione sul TIME tra i 100 \"World's Greatest Places\" per il 2019, grazie alla sua bellezza e unicit\u00E0, ma anche ai prezzi contenuti del museo e dell'ostello che lo rendono accessibile a tutti.",
+            "spiegazione": "Il castello divenne nel 1980 di propriet\u00E0 dell'Azienda Sanitaria Locale, in seguito al passaggio di beni degli ordini ospedalieri a queste ultime, ed \u00E8 attualmente della Regione Lazio che dal 2014 ne ha voluto la riapertura ai visitatori.",
+            "foto": {
+                "descrizione": "https://static.fanpage.it/wp-content/uploads/sites/2/2020/06/castello-di-santa-severa-1200x900.jpg",
+                "domanda": null,
+                "curiosita": "https://media-cdn.tripadvisor.com/media/photo-s/15/fd/35/c4/dovremmo-avere-tutti.jpg",
+                "spiegazione": "https://www.repstatic.it/content/localirep/img/rep-roma/2019/08/27/165227286-ea821190-0d29-432b-a61e-8586845863df.jpg"
+            }
+        }
+    ]
+}

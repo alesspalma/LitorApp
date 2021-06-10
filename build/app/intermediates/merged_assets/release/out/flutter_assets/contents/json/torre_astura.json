@@ -1,0 +1,44 @@
+{
+    "nome": "Torre Astura",
+    "categoria": "architettura",
+    "usatoPer": "Architettura",
+    "posizione": {
+        "indirizzo": "Strada Provinciale, 106b",
+        "cap": "00048",
+        "localita": "Nettuno",
+        "provincia": "LT"
+    },
+    "contatti": {
+        "telefono": null,
+        "mail": null,
+        "orari": null,
+        "sito_web": null
+    },
+    "info": "Torre Astura \u00E8 una torre costiera fortificata e un'isoletta del Lazio, nel territorio della citt\u00E0 di Nettuno, provincia di Roma, a circa dieci km a sud-est dal centro abitato. Zona a rischio nell'antichit\u00E0 per le secche e gli improvvisi banchi di roccia, i fondali circostanti la fortezza medievale sono ricchi di reperti archeologici.",
+    "foto": [
+        "https://www.aprilianews.it/wp-content/uploads/2019/02/11993222_883410888391323_133427774_o.jpg",
+        "https://fai-platform.imgix.net/media/lazio/rm/9695_castello-di-torre-astura.jpg?crop=fit&w=1440&h=800&auto=format,compress",
+        "https://www.funweek.it/app/uploads/2020/06/torre-astura-shutterstock_1507926842.jpg"
+    ],
+    "domande": [
+        {
+            "descrizione": "Nel XIII secolo Corradino di Svevia, sconfitto nei pressi di Tagliacozzo, si rifugi\u00F2 ad Astura nell'omonima torre, ma Giovanni Frangipane, signore di questa terra, lo consegn\u00F2 a Carlo d'Angi\u00F2 re di Napoli e ne consegu\u00EC la sua decapitazione.",
+            "domanda": "In che anno mor\u00EC Corradino di Svevia?",
+            "risposte": [
+                "1268",
+                "1465",
+                "1367",
+                "1566"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "A partire dall'et\u00E0 romana Astura rappresentava il prolungamento e il confine ad oriente della colonia di Antium. Per la sua amenit\u00E0 fu un luogo molto amato dai nobili romani, che la scelsero per costruirvi le loro villae d'otium.",
+            "spiegazione": "Corrado di Svevia, detto Corradino, fu duca di Svevia e re di Gerusalemme dal 1254 al 1268 e re di Sicilia fino al 1258. Egli fu l'ultimo degli Hohenstaufen regnanti.",
+            "foto": {
+                "descrizione": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Franz_Schreyer_-_Castell_Astura.jpg/440px-Franz_Schreyer_-_Castell_Astura.jpg",
+                "domanda": null,
+                "curiosita": "https://1.bp.blogspot.com/-Hj3xr2UWuvc/XxxU9E8jEMI/AAAAAAAAGow/Mp52B3FN1I0U17-Pk17SSVkOVqg5cw8IACLcBGAsYHQ/s1600/WhatsApp%2BImage%2B2020-07-25%2Bat%2B17.30.15%2B%25284%2529.jpeg",
+                "spiegazione": "https://www.historiaregni.it/wp-content/uploads/2018/03/corradinodisvevia22.png"
+            }
+        }
+    ]
+}

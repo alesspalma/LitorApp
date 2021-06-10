@@ -1,0 +1,44 @@
+{
+    "nome": "Parco Nazionale del Circeo",
+    "categoria": "natura",
+    "usatoPer": "Natura",
+    "posizione": {
+        "indirizzo": "Via Carlo Alberto, 188",
+        "cap": "04016",
+        "localita": "San Felice Circeo",
+        "provincia": "LT"
+    },
+    "contatti": {
+        "telefono": "0773 512240",
+        "mail": "segreteria@parcocirceo.it",
+        "orari": "Luned\u00EC - Domenica 07:15-00",
+        "sito_web": "http://www.parcocirceo.it/"
+    },
+    "info": "Il parco nazionale del Circeo \u00E8 stato istituito nel 1934 in una delle pi\u00F9 antiche aree naturali protette d'Italia, coprendo una superficie di 8.917 ettari. Il parco \u00E8 inoltre una \"riserva della biosfera\" dell'UNESCO dal 1997, ed \u00E8 stato candidato al titolo di \"patrimonio dell'umanit\u00E0\".",
+    "foto": [
+        "https://www.romadeibambini.it/wp-content/uploads/2014/05/circeo.jpg",
+        "https://mobile.ilcaffe.tv/img_articoli/big/2015/03/809.JPG",
+        "https://www.italia.it/fileadmin/src/img/cluster_gallery/mare/Circeo/__0001_Veduta-del-promontorio-del-Circeo.jpg"
+    ],
+    "domande": [
+        {
+            "descrizione": "Il clima del parco \u00E8 tipico mediterraneo e viene tutelato un ricco insieme di biomi. Dal punto di vista della fauna, troviamo, oltre alle varie specie di uccelli, i mammiferi tipici dell'area mediterranea.",
+            "domanda": "Che tipo di animali sono quelli mostrati in foto?",
+            "risposte": [
+                "Daini",
+                "Lepri",
+                "Renne",
+                "Cervi"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "I daini del Circeo sono salvi. Scongiurata quella che poteva diventare una vera e propria strage all'interno del \"piano di contenimento\", che prevedeva l'abbattimento di centinaia di questi meravigliosi animali in sovrannumero nel parco.",
+            "spiegazione": "I daini del Circeo rappresentano una specie alloctona (inserita dall'uomo), tuttavia riescono sopravvivere in un clima mite come quello mediterraneo, mentre cervi e renne necessitano di uno pi\u00F9 temperato o freddo.",
+            "foto": {
+                "descrizione": "https://www.latinacorriere.it/ltcwp/wp-content/uploads/2015/11/parco-nazionale-del-circeo-1.jpg",
+                "domanda": "http://www.parcocirceo.it/fotoGallery/28926_396_PNCIR-350.jpeg",
+                "curiosita": "https://www.gelestatic.it/thimg/dXkB-KBB0FwDF7fIP3m0rIyENFY=/fit-in/390x220/filters:format(webp)/https%3A//www.lastampa.it/image/contentid/policy%3A1.38483497%3A1582004780/daini02.jpg%3Ff%3Ddetail_558%26h%3D720%26w%3D1280%26%24p%24f%24h%24w%3D800574d",
+                "spiegazione": "https://www.latinacorriere.it/ltcwp/wp-content/uploads/2020/01/daino.jpg"
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "nome": "Villa Romana",
+    "categoria": "archeologia",
+    "usatoPer": "Pomezia",
+    "posizione": {
+        "indirizzo": "Via Siviglia",
+        "cap": "00071",
+        "localita": "Torvaianica",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": null,
+        "mail": null,
+        "orari": null,
+        "sito_web": null
+    },
+    "info": "La villa romana di Torvaianica \u00E8 stata scoperta per caso durante i lavori per la costruzione di una rete fognaria all'inizio del 2006. Lo scavo ha messo in luce l'impianto di quella che con ogni probabilit\u00E0 era la villa romana di una ricca famiglia senatoriale, costruita poco distante dal mare, non lontano dal luogo dove la tradizione vuole sia sbarcato Enea.",
+    "foto": [
+        "https://www.lelloblog.it/wp-content/uploads/2017/03/P1020031.jpg",
+        "https://itourist.is.it/wp-content/uploads/2017/09/Villa-Romana-1024x640.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7b/Torvaianica-siviglia03.jpg"
+    ],
+    "domande": [
+        {
+            "descrizione": "La \"Statua Giacente\", personificazione dell'inverno, fu ritrovata nella Villa Romana di Torvaianica nel 1794 durante gli scavi condotti dall'archeologo Robert Fagan. In quell'anno Torvaianica faceva ancora parte dello Stato Pontificio.",
+            "domanda": "Dov'\u00E8 tuttora conservata la \"Statua Giacente\" scoperta nella Villa Romana nel XVIII secolo?",
+            "risposte": [
+                "Musei Vaticani",
+                "Musei Capitolini",
+                "Uffizi",
+                "Cappelle Medicee"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "Nel medesimo anno, lo stesso Robert Fagan trov\u00F2, sempre presso la Villa Romana, una statua raffigurante Venere, ad oggi conservata al British Museum di Londra.",
+            "spiegazione": "Il 20 settembre 1900 papa Leone XIII proclam\u00F2 la dissoluzione ufficiale dello Stato Pontificio e 29 anni dopo, con la firma dei Patti Lateranensi, venne creato lo Stato della Citt\u00E0 del Vaticano, nei cui Musei \u00E8 conservata la statua.",
+            "foto": {
+                "descrizione": "http://ancientrome.ru/art/img/7/7881.jpg",
+                "domanda": null,
+                "curiosita": "https://scontent-mxp1-1.xx.fbcdn.net/v/t31.0-8/16836376_1892159504392070_3424086259666373400_o.jpg?_nc_cat=103&ccb=2&_nc_sid=9267fe&_nc_ohc=dO0Nq9_lSEAAX_scnld&_nc_ht=scontent-mxp1-1.xx&oh=3b6b0a0c1f7e81a118fbb164bb8f7734&oe=6025A6D6",
+                "spiegazione": "https://i.pinimg.com/originals/51/14/7e/51147e3f6a5bd90f6d2b43373e6f24c7.jpg"
+            }
+        }
+    ]
+}

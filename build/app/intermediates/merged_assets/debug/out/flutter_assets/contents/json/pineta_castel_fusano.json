@@ -1,0 +1,44 @@
+{
+    "nome": "Pineta di Castel Fusano",
+    "categoria": "natura",
+    "usatoPer": "Natura",
+    "posizione": {
+        "indirizzo": "Viale della Villa di Plinio",
+        "cap": "00122",
+        "localita": "Roma",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": null,
+        "mail": null,
+        "orari": null,
+        "sito_web": "https://www.comune.roma.it/web/it/scheda-servizi.page?contentId=INF77077"
+    },
+    "info": "La Pineta di Castel Fusano, compresa all'interno della Riserva Naturale del Litorale Romano, costituisce la pi\u00F9 vasta area di verde pubblico di Roma Capitale, unica sia per la vegetazione, pi\u00F9 o meno fitta a seconda che vi domini il Leccio o il Pino domestico, sia per la ricchezza faunistica dovuta anche alla contiguit\u00E0 con la Tenuta Presidenziale di Castel Porziano.",
+    "foto": [
+        "https://www.lamiaostia.com/castel_fusano/pineta.jpg",
+        "https://ostiaedintorni.it/wp-content/uploads/2018/05/via-severiana_2-702x336.jpg",
+        "https://www.litoraleonline.it/wordpress/wp-content/uploads/area-geografica/villa-di-plinio/plinio_02.jpg"
+    ],
+    "domande": [
+        {
+            "descrizione": "La pineta copre un'area di 916 ettari e costituisce la pi\u00F9 vasta area di verde pubblico di Roma, impiantata nel 1700 a scopi produttivi e unica sia per vegetazione che per ricchezza faunistica. All'inizio del nuovo millennio \u00E8 stata purtroppo oggetto di diversi incendi di origine dolosa.",
+            "domanda": "In che giorno un incendio colp\u00EC 300-350 ettari della pineta?",
+            "risposte": [
+                "4 Luglio 2000",
+                "17 Luglio 2017",
+                "5 Luglio 2008",
+                "26 Luglio 1995"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "L'allora sindaco di Roma offr\u00EC una taglia di 100 milioni a chi fosse stato in grado di fornire informazioni utili a trovare i colpevoli. \"La citt\u00E0 deve collaborare con le forze dell'ordine per individuare i responsabili... ricostruiremo la pineta distrutta ma il dolore \u00E8 grande e gli sciacalli non debbono farla franca\".",
+            "spiegazione": "Il 4 luglio del 2000, 300-350 ettari della pineta secolare e della macchia mediterranea sempreverde furono colpiti dall'incendio e 280 di questi andarono completamente distrutti. Il fuoco lamb\u00EC e devast\u00F2 anche case, campeggi, maneggi e capannoni industriali.",
+            "foto": {
+                "descrizione": "https://foto.ilmessaggero.it/photogallery_img/LOW/77/47/2567747_Castelfusano_mappa_1.jpg",
+                "domanda": null,
+                "curiosita": "https://www.ilmessaggero.it/photos/MED/89/51/2538951_1613_incendiopinetastorica.jpg",
+                "spiegazione": "https://velvetnews.it/wp-content/uploads/2017/07/Pineta-Castel-Fusano-Roma-incendio.jpg"
+            }
+        }
+    ]
+}

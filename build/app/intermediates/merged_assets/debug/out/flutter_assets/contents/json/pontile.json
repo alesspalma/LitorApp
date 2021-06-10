@@ -1,0 +1,44 @@
+{
+    "nome": "Pontile",
+    "categoria": "architettura",
+    "usatoPer": "Ostia",
+    "posizione": {
+        "indirizzo": "Piazza dei Ravennati",
+        "cap": "00121",
+        "localita": "Lido di Ostia",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": null,
+        "mail": null,
+        "orari": null,
+        "sito_web": null
+    },
+    "info": "Simbolo per antonomasia del litorale ostiense, venne inaugurato il 27 ottobre del 1940 di fronte alla Piazza dei Ravennati. Il Pontile si protende ora verso il mare con i suoi 150 metri di lunghezza, allargandosi nella parte terminale a formare una piazzola, dove fa bella mostra di se una caratteristica rosa dei venti.",
+    "foto": [
+        "https://laterrazzadigiulia.it/wp-content/uploads/2018/07/pontile_ostia.png",
+        "https://www.visitostia.tv/demo/wp-content/uploads/2019/03/ITIN4.PONTILE-1024x672.jpg",
+        "https://www.ilmessaggero.it/photos/MED/64/62/3356462_1619_pontile_di_ostia.jpg"
+    ],
+    "domande": [
+        {
+            "descrizione": "Il Pontile di Ostia fu inaugurato sotto Mussolini con il nome di \"Pontile Littorio\" e con l'intento di prolungare la Via del Mare fino al Tirreno.",
+            "domanda": "In che anno è stato inaugurato il Pontile di Ostia?",
+            "risposte": [
+                "1940",
+                "1890",
+                "1910",
+                "1970"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "Nel dicembre del 1943, ad appena tre anni dalla sua inaugurazione, fu raso al suolo dalle truppe tedesche che avevano occupato la zona, nel tentativo d'impedire lo sbarco degli anglo-americani per la liberazione della capitale.",
+            "spiegazione": "Fu costruito sotto il regime fascista e inaugurato il 27 ottobre del 1940.",
+            "foto": {
+                "descrizione": "https://pbs.twimg.com/media/Da4R0OgWAAEBiIW.jpg",
+                "domanda": null,
+                "curiosita": "https://www.romeandart.eu/images/news/ostia-6.jpg",
+                "spiegazione": "https://patrimonio.archivioluce.com/luce-web/imageViewPort/720?imageName=ATTUALITA/A35-109/A00072204.JPG"
+            }
+        }
+    ]
+}

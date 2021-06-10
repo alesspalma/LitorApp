@@ -1,0 +1,44 @@
+{
+    "nome": "Borgo di Ostia Antica",
+    "categoria": "architettura",
+    "usatoPer": "Architettura",
+    "posizione": {
+        "indirizzo": "Via dei Romagnoli",
+        "cap": "00119",
+        "localita": "Ostia Antica",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": null,
+        "mail": null,
+        "orari": null,
+        "sito_web": null
+    },
+    "info": "Lungo via dei Romagnoli, di fronte l'area archeologica, sorge il borgo rinascimentale di Ostia Antica, di origine medievale. Sin dalla tarda antichit\u00E0 (IV-V secolo d.C.) l'area ospit\u00F2 la necropoli della comunit\u00E0 cristiana di Ostia, nata dove la tradizione poneva le tombe di alcuni martiri, tra i quali spiccava quella di Santa Aurea.",
+    "foto": [
+        "https://www.appuntidivita.eu/wp-content/uploads/2019/10/giulio-II.jpg",
+        "https://www.romadavivere.com/wp-content/uploads/2017/03/Casa-Borgo-Ostia-Antica.jpg",
+        "https://www.lamiaostia.com/borgo_ostia_antica/album/slides/DSC_6093.jpg"
+    ],
+    "domande": [
+        {
+            "descrizione": "Il borgo di Ostia Antica nacque intorno a una basilica cristiana edificata nel luogo in cui fu martirizzata Santa Aurea nel 270 d.C. Intorno al IX secolo Papa Gregorio IV decise di proteggere la popolazione locale dai saraceni costruendo una cittadella fortificata e fu nel corso del '400 che il borgo assunse le sembianze che ha oggi.",
+            "domanda": "Come veniva chiamato il primo nucleo abitativo del IX secolo?",
+            "risposte": [
+                "Gregoriopoli",
+                "Aurelianus",
+                "Ostium",
+                "Oppidulum"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "Gregoriopoli, agli inizi del medioevo, era ormai diventata il punto di arrivo via mare a Roma per i cristiani provenienti da oriente e medioriente ed era stata elevata a sede episcopale gi\u00E0 nel terzo secolo d.C.",
+            "spiegazione": "Alla cittadella fortificata, eretta ad opera di Papa Gregorio IV (827-844), venne dato il nome del suo fondatore: Gregoriopoli.",
+            "foto": {
+                "descrizione": "https://static.wixstatic.com/media/2e5ab4_7c8916ade79564997e98d624f309dd06.jpg/v1/fill/w_691,h_435,al_c,q_80,usm_0.66_1.00_0.01/2e5ab4_7c8916ade79564997e98d624f309dd06.webp",
+                "domanda": null,
+                "curiosita": "https://www.ia-ostiaantica.org/news/wp-content/uploads/2015/03/Battaglia_di_ostia_01.jpg",
+                "spiegazione": "https://books.openedition.org/efr/docannexe/image/3753/img-5-small700.jpg"
+            }
+        }
+    ]
+}

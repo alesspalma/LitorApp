@@ -1,0 +1,44 @@
+{
+    "nome": "Borgo di Pratica di Mare",
+    "categoria": "architettura",
+    "usatoPer": "Architettura",
+    "posizione": {
+        "indirizzo": "Via di Pratica",
+        "cap": "00071",
+        "localita": "Pomezia",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": null,
+        "mail": null,
+        "orari": null,
+        "sito_web": null
+    },
+    "info": "Pratica di Mare \u00E8 una frazione del comune di Pomezia nella Citt\u00E0 metropolitana di Roma Capitale. L'aspetto del centro abitato \u00E8 quello di un vicus nei pressi di un castello. Gli scavi archeologici iniziati dal 1957 hanno permesso di localizzarvi l'antica citt\u00E0 di Lavinium, fondata da Enea e in particolare il Borgo sembra sorgere nella zona dell'acropoli dell'antica citt\u00E0 latina.",
+    "foto": [
+        "https://www.studio93.it/wordpress/wp-content/uploads/2020/02/borgo-pratica-di-mare.jpg",
+        "https://www.dimorestoricheitaliane.it/wp-content/uploads/2016/11/castello-borghese-pratica-mare-1024x623.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/15/6d/13/83/20181118-123549-largejpg.jpg"
+    ],
+    "domande": [
+        {
+            "descrizione": "Dal 1600 Pratica di mare \u00E8 passata sotto la gestione della famiglia Borghese, la quale era solita offrire ingenti somme di denaro ai contadini per comprare le case in cui questi abitavano. Per loro era fondamentale dominare tutto il paese e impedire ogni forma di autonomia: riuscirono a impossessarsi di tutte le case tranne una.",
+            "domanda": "In foto è mostrata l'unica casa non signorile del Borgo di Pratica di Mare. A chi appartiene?",
+            "risposte": [
+                "Sig.ra Fosca",
+                "Pier Francesco Borghese",
+                "Tara Francesco Borghese",
+                "Maria Grazia De Marco"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "Fino agli anni '70 gli abitanti del paese formavano un'unica famiglia, un unico corpo, ma a seguito dello sfratto ai contadini e della scarsit\u00E0 di lavoro sono andati via tutti. Fosca invece \u00E8 rimasta l\u00EC con sua figlia e ha iniziato a sfamare e curare i gatti di zona: una volta superate le 30 unit\u00E0 l'Asl l'ha riconosciuta come colonia felina.",
+            "spiegazione": "L'ultima casa nel Borgo apparteneva ad un vecchio litigioso che, una volta acquistata non la cedette per nulla al mondo. Il principe offr\u00EC cifre folli, esorbitanti, ma il vecchio testardo non cedette mai e tramand\u00F2 la casa ai suoi figli finch\u00E9 Fosca, nata a Pratica da genitori contadini, la compr\u00F2 nel 1979.",
+            "foto": {
+                "descrizione": "https://www.ilcorrieredellacitta.com/wp-content/uploads/2017/10/21764895_10212491197749018_4871645790654655093_n-768x515.jpg",
+                "domanda": "https://www.dudemag.it/wp-content/uploads/2016/08/Pratica_di_mare_IMG_2188-1.jpg",
+                "curiosita": "https://tuttoggi.info/wp-content/uploads/2018/07/colonie-gatti.jpg",
+                "spiegazione": "https://www.dudemag.it/wp-content/uploads/2016/08/Pratica_di_mare_IMG_2177.jpg"
+            }
+        }
+    ]
+}

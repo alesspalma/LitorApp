@@ -1,0 +1,44 @@
+{
+    "nome": "Monumento a Pier Paolo Pasolini",
+    "categoria": "architettura",
+    "usatoPer": "Ostia",
+    "posizione": {
+        "indirizzo": "Via dell'Idroscalo, 290",
+        "cap": "00121",
+        "localita": "Lido di Ostia",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": null,
+        "mail": null,
+        "orari": null,
+        "sito_web": null
+    },
+    "info": "Il monumento si trova nel Parco Pier Paolo Pasolini (Lido di Ostia Ponente), in ricordo dell'omonimo letterato italiano che il 2 Novembre 1975 mor\u00EC in questo luogo in circostanze mai chiarite fino in fondo. Tale opera risale al 2005 ed \u00E8 opera dello scultore Mario Rosati. L'area \u00E8 stata trasformata in un parco letterario dedicato, con l'introduzione di targhe che citano frasi e brani tratti dalle opere dell'autore.",
+    "foto": [
+        "https://www.ilcorrieredellacitta.com/wp-content/uploads/2016/04/monumento-pasolini.jpg",
+        "https://1.bp.blogspot.com/-Sydc_QZ45kU/Xb2eAFdttEI/AAAAAAAALfE/7BQqnwjGL702jpLo3sgP_GTrf75ZetDwgCNcBGAsYHQ/s400/Monumento%2BPasolini%2B1.JPG",
+        "https://1.bp.blogspot.com/-oBhHKc7wqBc/Xb3qEfLcP4I/AAAAAAAALf8/fHnNS_kMA7kECB2zmBVo-ldqUUuypbhFQCNcBGAsYHQ/s400/IMG_9054.JPG"
+    ],
+    "domande": [
+        {
+            "descrizione": "Il monumento ricorda il grande letterato italiano che il 2 Novembre 1975 mor\u00EC in questo luogo in circostanze mai chiarite fino in fondo. Il bene si trova nel parco letterario dedicato a Pasolini, dove \u00E8 possibile trovare molte targhe con citazioni tratte dalle sue opere.",
+            "domanda": "Quale teatro di Ostia prende il nome da una famosa opera di Pasolini?",
+            "risposte": [
+                "Affabulazione",
+                "Dafne",
+                "Fara Nume",
+                "Nino Manfredi"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "L'omicidio di Pasolini fu commesso da Pino Pelosi, diciassettenne di Guidonia, che venne definito \"ragazzo di vita\", espressione ispirata ancora una volta da un'altra famosa opera dello scrittore.",
+            "spiegazione": "L'associazione culturale \"Affabulazione\" nasce a Ostia nel 1992 per volont\u00E0 di Giorgio Jorio, esattamente 17 anni dopo che il suo amico Pasolini gli facesse notare la mancanza, all'interno del quartiere, di un \"luogo di incontro, di cultura e di socialit\u00E0\".",
+            "foto": {
+                "descrizione": "http://www.aprescindere.com/public/05DSC_5888.jpg",
+                "domanda": null,
+                "curiosita": "https://www.repstatic.it/content/nazionale/img/2017/07/20/194921493-7f0b229f-42f9-4738-bf28-af67a8f67d81.jpg",
+                "spiegazione": "https://media-cdn.tripadvisor.com/media/photo-s/02/30/a1/25/esterno-affabulazione.jpg"
+            }
+        }
+    ]
+}

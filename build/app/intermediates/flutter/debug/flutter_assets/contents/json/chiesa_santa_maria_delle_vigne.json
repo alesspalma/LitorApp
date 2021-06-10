@@ -1,0 +1,44 @@
+{
+    "nome": "Chiesa di Santa Maria delle Vigne",
+    "categoria": "architettura",
+    "usatoPer": "Pomezia",
+    "posizione": {
+        "indirizzo": "Via del Mare",
+        "cap": "00071",
+        "localita": "Pomezia",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": null,
+        "mail": null,
+        "orari": null,
+        "sito_web": null
+    },
+    "info": "In mezzo alla campagna, dentro la tenuta agricola dei Borghese e poco lontano dalla XIII Are, vi \u00E8 la chiesa di Santa Maria delle Vigne, abbandonata da oltre un secolo e ormai ridotta a un rudere. La chiesa ha origini antichissime e una prima struttura fu realizzata dalla comunit\u00E0 cristiana di Lavinium sopra i resti di una villa imperiale appartenuta alla nobile famiglia Crispinis.",
+    "foto": [
+        "https://static.vici.org/cache/268x268-6/uploads/gettyimages_929525504_2048x2048.jpg",
+        "https://3.bp.blogspot.com/-chz1rhp0zOk/WsaIyDdmkVI/AAAAAAAAJK0/qWQswVjhXT0UmiiMuc_ee8KClBr3n4oVwCLcBGAs/s1600/DSCN6484.JPG",
+        "https://fai-platform.imgix.net/media/lazio/rm/24177_chiesa-di-s-maria-delle-vigne.jpg?crop=fit&w=1440&h=800&auto=format,compress"
+    ],
+    "domande": [
+        {
+            "descrizione": "Malgrado la chiesa sia in un gravissimo stato di abbandono e siano scomparse del tutto le immagini sacre al suo interno, la struttura architettonica resta pregevole ed \u00E8 stata utilizzata in alcuni film e serie televisive romane.",
+            "domanda": "La scena in foto \u00E8 tratta da \"Il bambino e il poliziotto\", film del 1989 girato da un famoso attore e regista romano, quale?",
+            "risposte": [
+                "Carlo Verdone",
+                "Sergio Leone",
+                "Dario Argento",
+                "Mario Brega"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "Alla fine delle riprese l'intero cast and\u00F2 a mangiare al \"Sabba delle Streghe\", proprio all'interno del Borgo di Pratica di Mare. Era presente anche il principe Borghese che aveva concesso alla troupe di accedere nella propriet\u00E0.",
+            "spiegazione": "Nella scena raffigurata precedentemente, i rapitori di Giulio (Federico Rizzo) si fermano proprio nei pressi della chiesa per far fare pip\u00EC al bambino, che lascer\u00E0 un pattino a rotelle come segnale per il commissario Carlo (Carlo Verdone).",
+            "foto": {
+                "descrizione": "https://i1.trekearth.com/photos/64856/santa_maria_delle_vigne.jpg",
+                "domanda": "https://www.davinotti.com/images/fbfiles/images4/bambio10.jpg",
+                "curiosita": "https://64.media.tumblr.com/990d285e5da476cf4e690f0d259dc8f2/74cec2ead6af8073-a1/s500x750/bce9ee6c1f701af65f7b1e1969527e302fb803fe.png",
+                "spiegazione": "https://www.davinotti.com/images/fbfiles/images4/bambio11.jpg"
+            }
+        }
+    ]
+}

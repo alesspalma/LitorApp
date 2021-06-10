@@ -1,0 +1,44 @@
+{
+    "nome": "Antro del Fauno",
+    "categoria": "natura",
+    "usatoPer": "Pomezia",
+    "posizione": {
+        "indirizzo": "Via della Solfarata",
+        "cap": "00071",
+        "localita": "Pomezia",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": null,
+        "mail": null,
+        "orari": null,
+        "sito_web": null
+    },
+    "info": "In assoluto il luogo pi\u00F9 segreto e ricco della splendida zona vulcanica del Parco della Solfarata. L'antro \u00E8 allagato dalle acque che scaturiscono da una sorgente sulfurea al suo interno.",
+    "foto": [
+        "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/61563133_2292707854101885_8817323526588465152_o.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=2IBMEvb_TLsAX-nhhLT&_nc_ht=scontent-mxp1-1.xx&oh=98db28cdd9967e9fbdf4d59c1feb8e54&oe=601FB230",
+        "https://www.luigiplos.it/wp-content/uploads/2014/11/sorgente-sulfurea-allinterno-della-grotta-del-fauno.jpg",
+        "https://www.luigiplos.it/wp-content/uploads/2014/11/grotta-del-fauno-vista-panoramica.jpg"
+    ],
+    "domande": [
+        {
+            "descrizione": "Un luogo magico in tutti i sensi: si narra, infatti, che il re Latino si recasse nella grotta del padre Fauno per consultarne l'oracolo e proprio l\u00EC scopr\u00EC che sua figlia Lavinia avrebbe spostato Enea, un eroe straniero.",
+            "domanda": "Quale famoso poeta menziona la grotta nel suo celebre poema epico?",
+            "risposte": [
+                "Virgilio",
+                "Omero",
+                "Lucano",
+                "Ovidio"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "Fu proprio in onore della sposa di Enea che i Troiani fondarono una citt\u00E0 con il nome di Lavinium, sulla quale Lavinia continu\u00F2 a regnare anche dopo la rottura della promessa coniugale e della morte di Enea.",
+            "spiegazione": "Nel Libro VII dell'Eneide, Virgilio cita il culto del Fauno e indica l'Antro del Fauno come luogo in cui il re Latino era solito consultare l'oracolo.",
+            "foto": {
+                "descrizione": "https://www.luigiplos.it/wp-content/uploads/2014/11/concrezioni-allinterno-della-grotta-del-fauno.jpg",
+                "domanda": null,
+                "curiosita": "https://upload.wikimedia.org/wikipedia/commons/0/07/Lavinia_BnF_Fran%C3%A7ais_599_fol._35v.jpg",
+                "spiegazione": "https://www.studiarapido.it/wp-content/uploads/2017/12/eneide-libro-7-riassunto1.jpg"
+            }
+        }
+    ]
+}

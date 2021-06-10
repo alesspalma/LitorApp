@@ -1,0 +1,44 @@
+{
+    "nome": "Centro Habitat Mediterraneo LIPU",
+    "categoria": "natura",
+    "usatoPer": "Natura",
+    "posizione": {
+        "indirizzo": "Via dell'Idroscalo",
+        "cap": "00121",
+        "localita": "Lido di Ostia",
+        "provincia": "RM"
+    },
+    "contatti": {
+        "telefono": "379 1205540",
+        "mail": "chm.ostia@lipu.it",
+        "orari": "Luned\u00EC, Mercoled\u00EC e Venerd\u00EC 10-13\r\nSabato 09-13",
+        "sito_web": "http://www.lipu.it/centro-habitat-mediterraneo-ostia"
+    },
+    "info": "Il Centro Habitat Mediterraneo \u00E8 un'oasi di 20 ettari facente parte della Riserva Naturale Statale del Litorale Romano e gestita dalla LIPU. I 20 ettari di verde, con al centro uno stagno artificiale, costituiscono un rifugio e un punto di ristoro per varie specie di animali e attirano annualmente fotografi e birdwatchers professionisti da tutto il mondo.",
+    "foto": [
+        "https://mobile.ilcaffe.tv/img_articoli/big/2015/04/858.jpg",
+        "https://www.visitostia.tv/demo/wp-content/uploads/2019/03/LIPU-OASI-02-e1553907724899.jpg",
+        "https://www.repstatic.it/content/localirep/img/rep-roma/2019/06/17/121905771-a00282cb-2c80-438e-a832-d1a2ff9c5f5a.jpg"
+    ],
+    "domande": [
+        {
+            "descrizione": "Il Centro Habitat Mediterraneo Lipu di Ostia, realizzato in una zona precedentemente occupata da una discarica a cielo aperto, ospita una ricostruzione ambientale di uno stagno costiero, nel quale sono gi\u00E0 state censite oltre 200 specie di uccelli tra cui specie rare come l'airone rosso, la schiribilla e alcune anatre.",
+            "domanda": "Quello mostrato in foto \u00E8 un bellissimo esemplare dell'anatra pi\u00F9 rara d'Europa. Come si chiama?",
+            "risposte": [
+                "Moretta Tabaccata",
+                "Airone Rosso",
+                "Schiribilla",
+                "Anatra Mandarino"
+            ],
+            "pos_corretta": 0,
+            "curiosita": "La Moretta Tabaccata nidifica in Europa orientale e Asia, ma in Italia sono presenti circa 70-100 coppie distribuite nelle principali zone umide dell'alto e basso Adriatico, Sicilia e Sardegna. Durante la migrazione e lo svernamento si pu\u00F2 osservare anche sul Litorale romano.",
+            "spiegazione": "La Moretta Tabaccata \u00E8 una piccola anatra tuffatrice con piumaggio prevalentemente bruno-rossiccio, dal peso variabile tra i 400 e i 700 grammi. Un esemplare pu\u00F2 misurare una quarantina di centimetri in lunghezza, mentre l'apertura alare non raggiunge i 70 centimetri.",
+            "foto": {
+                "descrizione": "http://www.lipu.it/images/chm-ostia-lido-roma.jpg",
+                "domanda": "https://img2.juzaphoto.com/001/shared_files/uploads/1522740_m.jpg",
+                "curiosita": "https://www.birdingveneto.eu/venezia/guida/mortab/mortab_9_0747.jpg",
+                "spiegazione": "https://i2.wp.com/farm6.static.flickr.com/5171/5565348934_0cbdc69b51_z.jpg"
+            }
+        }
+    ]
+}
