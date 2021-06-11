@@ -2,7 +2,7 @@
 
 Quiz game about cultural assets of the Roman coast, in Italy.
 
-<p float="left">
+<p float="left" align="middle">
   <img src="/screenshots/home.png" alt="home" width="300"/>
   <img src="/screenshots/home.png" alt="home" width="300"/>
   <img src="/screenshots/home.png" alt="home" width="300"/>
