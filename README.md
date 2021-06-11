@@ -1,16 +1,17 @@
-# litorapp
+# LitorApp
 
-A new Flutter project.
+Quiz game about cultural assets of the Roman coast, in Italy.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![home](/screenshots/home.png)
+![archive](/screenshots/archivio_filtro_categoria2.png)
+![archive page](/screenshots/archivio_scheda.png)
+![archive page](/screenshots/archivio_scheda2.png)
+![game mode](/screenshots/selezione_modalità.png)
+![zone](/screenshots/selezione_zona.png)
+![zone selected](/screenshots/transizione_pomezia.png)
+![intro](/screenshots/borgo_intro.png)
+![timer is up](/screenshots/borgo_timer_scaduto.png)
+![explanation](/screenshots/borgo_spiegazione.png)
+![intro](/screenshots/circeo_intro.png)
+![question](/screenshots/circeo_corretta.png)
+![curiosity](/screenshots/circeo_curiosità.png)
