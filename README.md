@@ -2,19 +2,21 @@
 
 Quiz game about cultural assets of the Roman coast, in Italy.
 
-<img src="/screenshots/home.png" alt="home" width="300"/>
-<img src="/screenshots/home.png" alt="home" width="300"/>
-<img src="/screenshots/home.png" alt="home" width="300"/>
-<img src="/screenshots/home.png" alt="home" width="300"/>
-<img src="/screenshots/home.png" alt="home" width="300"/>
-<img src="/screenshots/home.png" alt="home" width="300"/>
-<img src="/screenshots/home.png" alt="home" width="300"/>
-<img src="/screenshots/home.png" alt="home" width="300"/>
-<img src="/screenshots/home.png" alt="home" width="300"/>
-<img src="/screenshots/home.png" alt="home" width="300"/>
-<img src="/screenshots/home.png" alt="home" width="300"/>
-<img src="/screenshots/home.png" alt="home" width="300"/>
-<img src="/screenshots/home.png" alt="home" width="300"/>
+<p float="left">
+  <img src="/screenshots/home.png" alt="home" width="300"/>
+  <img src="/screenshots/home.png" alt="home" width="300"/>
+  <img src="/screenshots/home.png" alt="home" width="300"/>
+  <img src="/screenshots/home.png" alt="home" width="300"/>
+  <img src="/screenshots/home.png" alt="home" width="300"/>
+  <img src="/screenshots/home.png" alt="home" width="300"/>
+  <img src="/screenshots/home.png" alt="home" width="300"/>
+  <img src="/screenshots/home.png" alt="home" width="300"/>
+  <img src="/screenshots/home.png" alt="home" width="300"/>
+  <img src="/screenshots/home.png" alt="home" width="300"/>
+  <img src="/screenshots/home.png" alt="home" width="300"/>
+  <img src="/screenshots/home.png" alt="home" width="300"/>
+  <img src="/screenshots/home.png" alt="home" width="300"/>
+</p>
 
 ![archive](/screenshots/archivio_filtro_categoria2.png)
 ![archive page](/screenshots/archivio_scheda.png)
